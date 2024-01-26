@@ -1,0 +1,57 @@
+.header{
+    background-color: #eee;
+    max-width: 1010px;
+    min-height: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    border-radius: 3px ;
+    border: solid gray 1px;
+}
+ 
+.addAllButton{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 60%;
+    padding-top: 5px;
+}
+
+.playAllButton {
+    padding-top: 5px;  
+}
+
+.trackNumber {
+   padding-top: 5px;
+   position: relative;
+   height: 50%;
+}
+
+.inputWrapper{
+    background-color: white;
+    border-radius: 2em;
+    border: solid gray 1px;
+    padding:3px;    
+}
+
+.vl {
+  display: inline;
+  border-left: 1px solid black;
+  margin-left: 5px;
+  padding: 2px;
+}
+
+.searchIcon {
+    color: gray;
+    padding-left: 3px;
+}
+
+input {
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    margin-left: 10px;
+    font-size: 1.25 rem;
+
+}
+
+

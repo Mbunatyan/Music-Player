@@ -1,0 +1,30 @@
+/* .songList{
+  display: grid;
+  grid-template-columns: 25px 25px 400px 400px 60px 80px ;
+  padding: 12px;
+  border-bottom: 2px solid #eee ;
+  width: 1010px;
+
+} */
+
+/* .stopButton, .playButton, .songName, .songArtist, .songTrack, .icons{
+  color: gray;
+  margin-left: 14px;
+}
+
+
+.songName, .songArtist, .songTrack, .icons{
+  
+  margin-left: 14px;
+}
+
+.hLine{
+  display:grid;
+  
+  border-bottom: 1px solid gray;
+}
+.songList:hover {
+  transform: scale(1.05);
+  background-color: #eee;
+  color:white;
+} */

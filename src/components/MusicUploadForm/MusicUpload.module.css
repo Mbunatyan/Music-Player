@@ -1,0 +1,51 @@
+.uploadForm{
+    background-color: #eee;
+    padding:1em;
+    max-width: 1010px;
+    min-height: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border-radius: 3px ;
+    border: solid gray 1px;
+}
+
+ .chooseFile {
+  margin-bottom: 2em;
+  margin-top: 1em;
+  /* padding: 5px; */
+}
+
+.icon{
+   margin-right: 8px;
+   
+}
+
+.uploadButton {
+    padding: 5px;
+}
+
+.fileTypeInfo{
+    font-size: small;
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hidden {
+    opacity: 0;
+    height: 0;
+    width: 0;
+    line-height: 0;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+.pickFile{
+margin-right: 30px;
+padding:7px;
+}

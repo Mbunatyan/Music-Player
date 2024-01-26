@@ -1,0 +1,42 @@
+.titleForm{
+  display: grid;
+  grid-template-columns: 50px 400px 400px 60px 80px;
+  padding: 10px;
+  column-gap: 3px;
+
+ }
+
+.songName {
+  background-color: #eee;
+  height: 40px;
+  padding:10px;
+  color: rgb(63, 59, 59) ;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.artistName {
+  background-color: #eee;
+  height: 40px;
+  padding:10px;
+  color: rgb(63, 59, 59) ;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.playIcons{
+  background-color: #eee;
+  height: 40px;
+
+}
+
+.track{
+  background-color: #eee;
+  height: 40px;
+  padding:10px;
+  color: rgb(63, 59, 59) ;
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+.likeIcons{  
+  background-color:#eee;
+  height: 40px;
+
+}
